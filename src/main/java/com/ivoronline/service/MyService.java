@@ -1,6 +1,6 @@
-package com.ivoronline.springboot_jdbc_select.service;
+package com.ivoronline.service;
 
-import com.ivoronline.springboot_jdbc_select.dto.PersonDTO;
+import com.ivoronline.dto.PersonDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import javax.sql.DataSource;
